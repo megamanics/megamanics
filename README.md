@@ -145,7 +145,7 @@ Now that you’ve created a commit, it’s time to share your proposed change th
   if users accidentally closed without merging.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>:chipmunk: Step 4: Merge your pull request</h2></summary>
 
 _Nicely done friend! :sunglasses:_
@@ -169,7 +169,7 @@ You successfully created a pull request. You can now merge your pull request.
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>:checkered_flag: Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
