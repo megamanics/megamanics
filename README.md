@@ -2,3 +2,8 @@
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="30">Medium</img>](https://vinayski.medium.com)
 &nbsp;
 [Schedule time with me](https://calendly.com/megamanics/25min?hide_event_type_details=1&hide_gdpr_banner=1)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=megamanics&theme=onedark) ]
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=megamanics) ]
