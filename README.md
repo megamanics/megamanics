@@ -6,7 +6,7 @@
 [<img src="https://sessionize.com/landing/images/sessionize-logo.svg" width="100"></img>](https://sessionize.com/SKi)
 &nbsp;<br>
 
-# 🤖 Chat with Bots ✨
+# 🤖 Bots ✨
 
 <a href="https://poe.com/PublicSpeakerBot" target="blank"><img align="center" src="https://qph.fs.quoracdn.net/main-thumb-pb-2321479-200-azfmiqtrrfgpzxoojobkzombrsuzpuhp.jpeg" alt="Public Speaker" width="60" /></a>
 <a href="https://poe.com/ToBeOrNotToBeBot" target="blank"><img align="center" src="https://qph.fs.quoracdn.net/main-thumb-pb-2735434-200-smrfjnnjatmphaqwsmazexyunbqfavnn.jpeg" alt="Decision Maker" width="60" /></a>
