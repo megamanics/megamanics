@@ -12,3 +12,6 @@
 <a href="https://poe.com/ToBeOrNotToBeBot" target="blank"><img align="center" src="https://qph.fs.quoracdn.net/main-thumb-pb-2735434-200-smrfjnnjatmphaqwsmazexyunbqfavnn.jpeg" alt="Decision Maker" width="60" /></a>
 
 [![image](https://user-images.githubusercontent.com/10250297/225500290-296291b5-dbe8-41ba-af28-118a0b23a728.png)](https://medium.com/@vinayski/ai-is-here-to-stay-2fadcf3e637b)
+
+
+<a href="https://gitroll.io/profile/u1iRaS7qrJYda2XJHo7g54EuSxz03" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u1iRaS7qrJYda2XJHo7g54EuSxz03?theme=midnight"/></a>
